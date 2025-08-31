@@ -6,6 +6,13 @@ A comprehensive comparison of React Context API and Zustand state management sol
 
 This project demonstrates the practical differences between React Context API and Zustand through two identical e-commerce applications. Each app implements the same features (product filtering, cart management, persistence) using different state management approaches.
 
+## 🌐 Live Demo
+
+- **[Context API Demo](https://nextjs-state-management-comparison.vercel.app/)**
+- **[Zustand Demo](https://nextjs-state-management-comparison-gamma.vercel.app/)**
+
+> Open both links in separate tabs to compare the implementations side by side!
+
 ## 🚀 Quick Start
 
 ```bash
